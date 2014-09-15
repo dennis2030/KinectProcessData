@@ -1,0 +1,5 @@
+This project is aim to do pre-processing of depth information collected from Kinect V2 sensor.
+
+Usage:
+1. Use process(colorDir, depthDir, targetDir) to generate depth images(filetype: jpg).
+
